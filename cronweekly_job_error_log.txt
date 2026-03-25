@@ -1,0 +1,34 @@
+
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+mail sendmail send
+No file found for todays date
+Message could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingMessage could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Message could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingMessage could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Message could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingMessage could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Message could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingMessage could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Message could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingMessage could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
