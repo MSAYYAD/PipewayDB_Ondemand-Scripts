@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ------------------------------------------------------------------------------------
-# Author - KEANT Technologies       Date: 22 JAN 2025
+# Author - KEANT Technologies       Date: 25 Mar 2026
 # Description - This script uploads a single daily CSV file to MySQL database
 #               and sends email notifications after completion
 # ------------------------------------------------------------------------------------
